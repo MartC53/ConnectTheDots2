@@ -3,7 +3,16 @@
 Analysis idea: throw multiple ensambles that include randomr forests at the problem. Consider fitting different
 models based on the concentration of dots (prediction is easier when fewer dots).
 
-Potential packages for 
+Technology review plan:
+Focus on ML (scikitlean, tensorflow, pytorch)
 
-TEchnology review plan:
-I present Thursday on scikitlean, tensorflow, pytorch. Stream of conciousness
+11/26/2024:
+
+Focusing on improving viral load prediction using labeled data and existing features. Have produced model that
+improves on prior approach.
+
+12/05/2024:
+
+Working to structure github to incorporate new models, tests, and update docs.
+
+
