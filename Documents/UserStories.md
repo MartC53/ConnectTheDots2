@@ -1,6 +1,6 @@
 User Stories
 
-User 1: James is a clinitian in a Federally funded health care clinic. They want to use the tool to quickly evaluate
+User 1: James is a clinitian in a Federally funded health center. They want to use the tool to quickly evaluate
 viral load collect data from patients. They need an inexpensive tool that can be used quickly. They are somewhat
 technical but have a very full schedule and do not have time to troubleshoot problems.
 
