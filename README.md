@@ -3,7 +3,8 @@ The goal of this project is to produce an ensemble model that accurately quantif
 
 ## Motivation
 ### Abstract
-Nucleic Acid Tests (NATs) detect nucleic acid from disease and infection. Detection is based on amplifying low levels of DNA/RNA allowing for detection of a single strand of DNA/RNA. The gold standard for quantitative nucleic acid testing is quantitative polymerase chain reaction (qPCR). However, qPCR is:
+Without a cure, antiretroviral therapy (ART) is the primary tool for treating individuals living with HIV (Drain et Al. 2020). Monitoring HIV viral load is an important element of care for individuals on ART, as virally suppressed patients cannot transmit HIV to others. As a result, combating the HIV epidemic requires timely and accurate viral load testing.
+Despite the importance of viral load testing, existing testing technologies present implementation challenges, particularly in low- and middle-income countries (Grieg et Al, 2020). Currently, viral load testing requires Nucleic Acid Tests (NATs), which detect nucleic acid from disease and infection. Detection is based on amplifying low levels of DNA/RNA allowing for detection of a single strand of DNA/RNA. The gold standard for quantitative nucleic acid testing is quantitative polymerase chain reaction (qPCR). However, qPCR is:
 * slow
 * expensive 
 * fragile 

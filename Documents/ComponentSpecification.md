@@ -1,6 +1,6 @@
 Name: Data Analysis Module
 
-What it does: Processes and analyzes viral load data. This includes running machine learning models for sample analysis and updating the algorithm if required.
+What it does: Our program processes and analyzes labeled viral load data. Steps includes importing data, running machine learning models for sample analysis, and updating the algorithm if required.
 
 Inputs (with type information): 
 - sampleData (type: array of objects) – Retrieved sample records for analysis.
